@@ -69,11 +69,11 @@ p {
 }
 
 a {
-  color: $blue;
+  color: $white;
   text-decoration: none;
 	cursor: pointer;
   &:hover, &:active {
-    color: $blue;
+    color: $white;
   }
 }
 
@@ -117,16 +117,16 @@ img {
 
 .date {
   font-style: italic;
-  color: $gray;
+  color: $white;
 }
 
 // Specify the color of the selection
 ::-moz-selection {
-  color: $black;
+  color: $white;
   background: $lightGray;
 }
 ::selection {
-  color: $black;
+  color: $white;
   background: $lightGray;
 }
 
@@ -202,7 +202,7 @@ img {
 
 .site-description {
   margin: -5px 0 0 0;
-  color: $gray;
+  color: $white;
   font-size: 16px;
 
   @include mobile {
