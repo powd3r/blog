@@ -16,13 +16,13 @@ avatar: https://images.sftcdn.net/images/t_optimized,f_auto/p/341c5968-96d8-11e6
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email: nope
-  facebook: nope
-  flickr: nope
-  github: maybe
-  instagram: nope
-  linkedin: nope
-  pinterest: nope
+  email: 
+  facebook: 
+  flickr: 
+  github: 
+  instagram: 
+  linkedin: 
+  pinterest: 
   rss: anything
   twitter: 
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
