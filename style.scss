@@ -27,9 +27,11 @@ body {
   margin: 0 auto;
   max-width: 740px;
   padding: 0 10px;
-  width: 100%;
+  width: 150%;
   color: $blue;
   font-weight: bold;
+	background: linear-gradient(red, yellow, blue);
+	border-radius: 25px;
 }
 
 h1, h2, h3, h4, h5, h6 {
