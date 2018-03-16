@@ -30,7 +30,7 @@ body {
   width: 150%;
   color: $blue;
   font-weight: bold;
- background: repeating-radial-gradient(red, yellow 10%, green 15%);
+ background: repeating-linear-gradient(red, yellow 10%, green 20%);
 	border-radius: 25px;
 }
 
