@@ -31,7 +31,7 @@ body {
   width: 150%;
   color: $blue;
   font-weight: bold;
-  background: linear-gradient(-90deg, red, yellow);
+ background: repeating-radial-gradient(red, yellow 10%, green 15%);
 }
 
 h1, h2, h3, h4, h5, h6 {
