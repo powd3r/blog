@@ -30,7 +30,7 @@ body {
   width: 150%;
   color: $blue;
   font-weight: bold;
- background: repeating-linear-gradient(red, yellow 10%, green 20%);
+  background: linear-gradient(to right, red,orange,yellow,green,blue,indigo,violet); 
 	border-radius: 25px;
 }
 
