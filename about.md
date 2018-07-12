@@ -1,7 +1,7 @@
 ---
 layout: page
-title: oof
-permalink: /oof/
+title: about
+permalink: /about/
 ---
 
 iamalive as of 19th feb 2018.
